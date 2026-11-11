@@ -1,0 +1,17 @@
+{
+  "name": "com.wysong.packageinstaller",
+  "version": "1.0.0",
+  "displayName": "WySong Package Installer",
+  "description": "GitHub catalog.json에 등록된 UPM 패키지를 Unity Editor에서 확인하고 설치하는 UI Toolkit 도구입니다.",
+  "unity": "6000.0",
+  "author": {
+    "name": "WySong"
+  },
+  "keywords": [
+    "package",
+    "installer",
+    "github",
+    "upm",
+    "ui-toolkit"
+  ]
+}

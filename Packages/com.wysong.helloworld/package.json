@@ -1,0 +1,14 @@
+{
+  "name": "com.wysong.helloworld",
+  "version": "1.0.0",
+  "displayName": "Hello World (WySong)",
+  "description": "Package Installer 동작 확인용 UPM 샘플",
+  "unity": "6000.0",
+  "author": {
+    "name": "WySong"
+  },
+  "keywords": [
+    "demo",
+    "hello-world"
+  ]
+}

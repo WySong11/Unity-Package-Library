@@ -1,0 +1,15 @@
+# Unity 프로젝트 전체를 실수로 복사했을 때 생성 산출물을 제외합니다.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+.DS_Store
+# 주의: Unity 패키지의 .meta 파일은 Git에 반드시 포함합니다.

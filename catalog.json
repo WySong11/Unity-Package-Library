@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "com.wysong.helloworld",
+      "displayName": "Hello World (설치 테스트)",
+      "description": "패키지 설치 성공 여부를 확인하는 수업용 최소 예제입니다.",
+      "category": "Samples",
+      "version": "1.0.0",
+      "gitUrl": "https://github.com/WySong11/Unity-Package-Library.git?path=/Packages/com.wysong.helloworld#helloworld-v1.0.0",
+      "type": "upm"
+    }
+  ]
+}
